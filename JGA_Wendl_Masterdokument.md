@@ -48,13 +48,13 @@ Das ist die größte Gefahr bei einem angeheiterten Bräutigam über viele Stund
 
 ### Schlüsselrollen
 
-**ERPRESSER — Kampf-Boss** *(Marcel?)*
+**ERPRESSER — Kampf-Boss** *(kein Spieler — wird vom GM/Erzähler verkörpert, taucht nur im Tabletop-Kampf auf)*
 - **Wer:** Der Schurke, der Iris entführt hat. Schickt regelmäßig Erpresserschreiben.
-- **Aufgabe:** Bleib unnahbar, monologisiere fies. Du bist das Ziel des Tabletop-Kampfs.
-- **Gibt:** Nach deiner Niederlage einen Schlüssel-Hinweis: *„Ich war nicht allein… der Höschenhändler…"*
-- **Stichwort:** Neues Erpresserschreiben taucht ~alle 1–2 h auf.
+- **Aufgabe:** Der GM spricht für ihn — monologisiert fies, reagiert auf Treffer, stirbt theatralisch.
+- **Gibt:** Nach seiner Niederlage einen Schlüssel-Hinweis: *„Ich war nicht allein… der Höschenhändler…"*
+- **Stichwort:** Neue Erpresserschreiben tauchen ~alle 1–2 h auf (vom GM platziert).
 
-**HÖSCHENHÄNDLER — KOMPLIZE** *(Casting offen — muss den Iris-Gag mitmachen!)*
+**HÖSCHENHÄNDLER — KOMPLIZE** *(Marcel)*
 - **Wer:** Fahrender Händler für Wäsche & „Kuriositäten". Wirkt harmlos.
 - **Aufgabe:** Verkauf Wendl für 10 Gold die „Iris-Bluse" (weißes T-Shirt mit Grillhendl-Flecken). Tu nichts Auffälliges — die Fälschung verrät dich später selbst.
 - **Gibt:** Das **falsche** Kleidungsstück (der zentrale Beweis).
@@ -88,7 +88,7 @@ Das ist die größte Gefahr bei einem angeheiterten Bräutigam über viele Stund
 
 **MARKUS — Barde:** Soundtrack des Abends (Mittelalter-Cover der Fortgeh-Hits). Spielt zu Schlüsselmomenten; ein Lied kann einen versteckten Hinweis enthalten.
 
-**LUKI — Eseltreiber / Steinelutscher:** Sucht einen Lutschstein für seinen Esel. Wendl muss ihn beim Barkeeper kaufen (Gold). Gibt dafür eine Hinweis-Karte.
+**LUKI — Eseltreiber / Steinelutscher:** Sucht einen Lutschstein für seinen Esel. Wendl muss ihn beim Barkeeper kaufen (Gold-Sink). Gibt dafür eine Hinweis-Karte.
 
 ### Atmosphäre (kein fester Quest)
 
@@ -173,7 +173,6 @@ Klassisches Werwolf, aber **fürs Drama gerigged** — kein offenes Spiel, sonde
 
 ## Offene Punkte / nächste Schritte
 
-- **Casting Höschenhändler:** Wer macht den Iris-Gag am Ende?
 - **Pub-Quiz-Inhalt:** Welcher Satz soll sich aus den Antworten ergeben? (Eigenes Fragen-Dokument nötig.)
-- **Erpresser:** Bleibt Marcel der Kampf-Boss, oder rückt er auf den Höschenhändler?
+- **Wahrsager-Casting:** Wer spielt die Wahrsager-Rolle?
 - **Requisiten-Check:** Box + Mikro, Character/Quest Cards drucken, Morse-Tabelle, Schaumstoff-„Waffen", Iris-Kleidung, Pokal.
